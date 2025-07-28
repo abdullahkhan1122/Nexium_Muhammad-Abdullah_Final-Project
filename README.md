@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a name="readme-top"></a>
 
 <div align="center">
@@ -156,3 +157,6 @@ This website design was inspired by the beautiful design of the [Tamagui](https:
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+# Nexium_Muhammad-Abdullah_Final-Project
+>>>>>>> 7c91bada0fb113b854976055f5b0c3caa05c26b4
