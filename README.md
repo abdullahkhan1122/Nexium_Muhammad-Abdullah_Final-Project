@@ -102,5 +102,4 @@ Edit
 
 ---
 
-Let me know if you want to include your actual deployed URL, GitHub badge, or screenshots sec
 ```
