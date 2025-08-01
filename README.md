@@ -96,9 +96,6 @@ This project is licensed under the MIT License.
 👨‍💻 Author
 Made with care by Muhammad Abdullah — feel free to fork and extend it for your own use.
 
-yaml
-Copy
-Edit
 
 ---
 
