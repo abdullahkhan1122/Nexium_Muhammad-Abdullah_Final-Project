@@ -12,9 +12,9 @@
 
 <!-- TABLE OF CONTENTS -->
 
-# 🚀 Nexium – AI-Powered Startup Pitch Generator
+# 🚀 Pitch Snap – AI-Powered Startup Pitch Generator
 
-**Nexium** is a modern web application that enables founders, entrepreneurs, and creators to instantly generate compelling startup pitches with the help of AI — no passwords required, just email-based magic links.
+**Pitch Snap** is a modern web application that enables founders, entrepreneurs, and creators to instantly generate compelling startup pitches with the help of AI — no passwords required, just email-based magic links.
 
 ---
 
